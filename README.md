@@ -1,3 +1,3 @@
 # Heroes App
 
-Simple App using React Router 6 to find your favorite Hero
+Simple App using React Router 6, creating a Single Web Application
